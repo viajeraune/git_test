@@ -1,0 +1,1 @@
+This is Eunhae's second git project!
